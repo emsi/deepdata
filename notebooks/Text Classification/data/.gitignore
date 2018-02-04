@@ -1,0 +1,5 @@
+# An empty dir for data 
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
